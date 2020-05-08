@@ -2,6 +2,7 @@
   "name": "metplus-pets-production",
   "description": "MetPlus production",
   "keywords": [
+    "test"
   ],
   "scripts": {
     "dokku": {
